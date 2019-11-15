@@ -1,6 +1,6 @@
 # testmd
 
-| Command | Description |
+| | Location |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Country` | List all *new or modified* files |
+| `Region` | Show file differences that **haven't been** staged |
